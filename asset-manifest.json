@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/QuestionsApp/static/css/main.ad123046.chunk.css",
+    "main.js": "/QuestionsApp/static/js/main.73277208.chunk.js",
+    "main.js.map": "/QuestionsApp/static/js/main.73277208.chunk.js.map",
+    "runtime-main.js": "/QuestionsApp/static/js/runtime-main.c8c064d4.js",
+    "runtime-main.js.map": "/QuestionsApp/static/js/runtime-main.c8c064d4.js.map",
+    "static/js/2.b3e6a3c4.chunk.js": "/QuestionsApp/static/js/2.b3e6a3c4.chunk.js",
+    "static/js/2.b3e6a3c4.chunk.js.map": "/QuestionsApp/static/js/2.b3e6a3c4.chunk.js.map",
+    "static/js/3.a38bc24e.chunk.js": "/QuestionsApp/static/js/3.a38bc24e.chunk.js",
+    "static/js/3.a38bc24e.chunk.js.map": "/QuestionsApp/static/js/3.a38bc24e.chunk.js.map",
+    "index.html": "/QuestionsApp/index.html",
+    "static/css/main.ad123046.chunk.css.map": "/QuestionsApp/static/css/main.ad123046.chunk.css.map",
+    "static/js/2.b3e6a3c4.chunk.js.LICENSE.txt": "/QuestionsApp/static/js/2.b3e6a3c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8c064d4.js",
+    "static/js/2.b3e6a3c4.chunk.js",
+    "static/css/main.ad123046.chunk.css",
+    "static/js/main.73277208.chunk.js"
+  ]
+}
